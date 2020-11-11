@@ -1,0 +1,11 @@
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 2\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 2\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 2\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 2\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojAssemblyReference.cache
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 2\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 2\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 2\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 2\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 2\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 2\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 2\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form2.resources
