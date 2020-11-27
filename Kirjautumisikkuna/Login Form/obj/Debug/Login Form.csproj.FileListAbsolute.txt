@@ -1,0 +1,11 @@
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Login Form\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Login Form\Login Form\bin\Debug\Login Form.exe
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Login Form\Login Form\bin\Debug\Login Form.pdb
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Login Form\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Login Form\Login Form\obj\Debug\Login_Form.Login.resources
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Login Form\Login Form\obj\Debug\Login Form.csproj.CoreCompileInputs.cache
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Login Form\Login Form\obj\Debug\Login Form.exe
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Login Form\Login Form\obj\Debug\Login Form.pdb
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Login Form\Login Form\obj\Debug\Login_Form.name_of_program.resources
