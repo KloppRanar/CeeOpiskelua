@@ -1,0 +1,5 @@
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 3\Basic Calculater\Basic Calculater\obj\Debug\Basic Calculater.csprojAssemblyReference.cache
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 3\Basic Calculater\Basic Calculater\obj\Debug\Basic_Calculater.Form1.resources
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 3\Basic Calculater\Basic Calculater\obj\Debug\Basic_Calculater.Properties.Resources.resources
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 3\Basic Calculater\Basic Calculater\obj\Debug\Basic Calculater.csproj.GenerateResource.cache
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 3\Basic Calculater\Basic Calculater\obj\Debug\Basic Calculater.csproj.CoreCompileInputs.cache
