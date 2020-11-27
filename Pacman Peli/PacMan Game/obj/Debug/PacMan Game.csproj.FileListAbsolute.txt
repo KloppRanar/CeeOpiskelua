@@ -1,0 +1,10 @@
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Viikon Peli\PacMan Game\PacMan Game\bin\Debug\PacMan Game.exe.config
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Viikon Peli\PacMan Game\PacMan Game\bin\Debug\PacMan Game.exe
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Viikon Peli\PacMan Game\PacMan Game\bin\Debug\PacMan Game.pdb
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Viikon Peli\PacMan Game\PacMan Game\obj\Debug\PacMan Game.csprojAssemblyReference.cache
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Viikon Peli\PacMan Game\PacMan Game\obj\Debug\PacMan_Game.Properties.Resources.resources
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Viikon Peli\PacMan Game\PacMan Game\obj\Debug\PacMan Game.csproj.GenerateResource.cache
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Viikon Peli\PacMan Game\PacMan Game\obj\Debug\PacMan Game.csproj.CoreCompileInputs.cache
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Viikon Peli\PacMan Game\PacMan Game\obj\Debug\PacMan Game.exe
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Viikon Peli\PacMan Game\PacMan Game\obj\Debug\PacMan Game.pdb
+C:\Users\ranar\Desktop\School and Work\KEUDA ÕPINGUD\Kehitysympäristän käyttö\vko 4\Viikon Peli\PacMan Game\PacMan Game\obj\Debug\PacMan_Game.Game.resources
